@@ -5,6 +5,14 @@
 - macOS Ventura 13.7.8 (22H730)
 
 ---
+
+## 2026-10-更新OC
+
+**https://github.com/vcvvvc/Dell-Inspiron-7590-Sonoma-OpenCore 支持macOS Sonoma 14.8.8 (23J620)**
+
+**最新OC 理论上支持macOS15，搭配[NVDA驱动支持](https://github.com/nullmoth/nvidia-macos-driver)，暂未测试。**
+
+---
  
 **HDMI/蓝牙/Wi-Fi 可用, 麦克风问题通过外接设备可用语音输入**
 
