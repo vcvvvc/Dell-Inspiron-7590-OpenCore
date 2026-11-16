@@ -1,16 +1,27 @@
-# Dell-Inspiron-7590-Ventura
+# Dell-Inspiron-7590 
 
-- Dell-Inspiron-7590
+**最新OC [Dell Inspiron 7590 1401](https://github.com/vcvvvc/Dell-Inspiron-7590-Sequoia-1401-OpenCore)， 成功驱动GTX1650**
 
-- macOS Ventura 13.7.8 (22H730)
+### System Info
+- **Laptop:** Dell Inspiron 7590
+- **CPU:** Intel Core i7-9750H
+- **iGPU / dGPU:** Intel UHD 630 + NVIDIA GTX 1650 Mobile (4GB)
+- **OS:** macOS Sequoia 15.8.3 (24H241)
+- **Driver:** 1401 v3.0.0
 
 ---
 
 ## 2026-10-更新OC
 
-**https://github.com/vcvvvc/Dell-Inspiron-7590-Sonoma-OpenCore 支持macOS Sonoma 14.8.8 (23J620)**
+**[macOS Sonoma 14.8.8](https://github.com/vcvvvc/Dell-Inspiron-7590-Sonoma-OpenCore)**
 
-**最新OC https://github.com/vcvvvc/Dell-Inspiron-7590-Sequoia-1401-OpenCore，成功驱动GTX1650**
+---
+
+# Dell-Inspiron-7590-Ventura
+
+- Dell-Inspiron-7590
+
+- macOS Ventura 13.7.8 (22H730)
 
 ---
  
