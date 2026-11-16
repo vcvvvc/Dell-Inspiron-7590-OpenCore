@@ -10,7 +10,7 @@
 
 **https://github.com/vcvvvc/Dell-Inspiron-7590-Sonoma-OpenCore 支持macOS Sonoma 14.8.8 (23J620)**
 
-**最新OC 理论上支持macOS15，搭配[NVDA驱动支持](https://github.com/nullmoth/nvidia-macos-driver)，暂未测试。**
+**最新OC https://github.com/vcvvvc/Dell-Inspiron-7590-Sequoia-1401-OpenCore，成功驱动GTX1650**
 
 ---
  
